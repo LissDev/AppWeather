@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/custom/weather-250.png</file>
+        <file>icons/custom/weather.png</file>
+    </qresource>
+</RCC>
